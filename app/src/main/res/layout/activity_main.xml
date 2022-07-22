@@ -63,13 +63,12 @@
             android:backgroundTint="#E91E63"
             android:text="sign In" />
         <Button
-            android:id="@+id/btn_signUp"
+            android:id="@+id/btn_send"
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:backgroundTint="#E91E63"
-            android:text="sign Up" />
+            android:text="Send" />
     </LinearLayout>
-
 
 </RelativeLayout>
